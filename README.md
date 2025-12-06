@@ -34,9 +34,9 @@ Documento formal que cubre los aspectos legales, estrategias de marketing y mone
 ## 📺 3. Video Demostrativo
 Video de 3 a 10 minutos evidenciando la funcionalidad del juego en las tres plataformas (PC, Android, WebGL).
 
-[![Ver Video en YouTube](https://img.youtube.com/vi/TU_ID_DE_VIDEO/0.jpg)](LINK_A_TU_VIDEO_DE_YOUTUBE)
+[![Ver Videos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoED6vnWlqQGyq3sWWKg2jDyQkCCo8R3Zvw&s](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing)
 
-> *Haz clic en la imagen o [aquí](LINK_A_TU_VIDEO_DE_YOUTUBE) para ver el video.*
+> *Haz clic en la imagen o [aquí](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing) para ver el video.*
 
 ---
 
