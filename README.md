@@ -1,8 +1,8 @@
-# 🎮 [NOMBRE DE TU VIDEOJUEGO]
+# 🎮 Guardian del equilibrio
 
 > **Materia:** Creación de Videojuegos - Unidad 3
-> **Alumno:** [TU NOMBRE COMPLETO]
-> **Grupo:** [TU GRUPO]
+> **Alumno:** Kevin Conejo Salazar
+> **Grupo:** GIDS5102-E
 
 Este repositorio contiene la entrega final del proyecto, incluyendo el código fuente, las builds multiplataforma y la documentación del modelo de negocio.
 
