@@ -14,7 +14,7 @@ El videojuego ha sido compilado y probado en las siguientes plataformas según l
 | Plataforma | Tipo | Estado | 📥 Link de Descarga / Juego |
 | :--- | :---: | :---: | :--- |
 | **Windows (PC)** | `.exe` | ✅ Estable | [Descargar Build PC Aquí](https://drive.google.com/drive/folders/1aZTu3w8fBGWPKcblGbC8lNxOdMnYXBKC?usp=sharing) |
-| **Android** | `.apk` | ✅ Funcional | [Descargar APK Aquí](LINK_A_TU_DRIVE_O_RELEASE) |
+| **Android** | `.apk` | ✅ Funcional | [Descargar APK Aquí](https://drive.google.com/drive/folders/1TdTFpt3KwBLLUB_eLNnBc7cYwZHu2CwK?usp=sharing) |
 | **WebGL** | `Web` | ✅ Online | [Jugar en Navegador Aquí](https://play.unity.com/en/games/ec821601-727d-42ed-aabb-ada6d5ae9ca5/guardian-del-equlibrio) |
 
 ---
@@ -34,7 +34,7 @@ Documento formal que cubre los aspectos legales, estrategias de marketing y mone
 ## 📺 3. Video Demostrativo
 Video de 3 a 10 minutos evidenciando la funcionalidad del juego en las tres plataformas (PC, Android, WebGL).
 
-[![Ver Videos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoED6vnWlqQGyq3sWWKg2jDyQkCCo8R3Zvw&s](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing)
+[![Ver Videos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoED6vnWlqQGyq3sWWKg2jDyQkCCo8R3Zvw&s)](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing)
 
 > *Haz clic en la imagen o [aquí](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing) para ver el video.*
 
