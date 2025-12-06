@@ -13,9 +13,9 @@ El videojuego ha sido compilado y probado en las siguientes plataformas según l
 
 | Plataforma | Tipo | Estado | 📥 Link de Descarga / Juego |
 | :--- | :---: | :---: | :--- |
-| **Windows (PC)** | `.exe` | ✅ Estable | [Descargar Build PC Aquí](LINK_A_TU_DRIVE_O_RELEASE) |
+| **Windows (PC)** | `.exe` | ✅ Estable | [Descargar Build PC Aquí](https://drive.google.com/drive/folders/1aZTu3w8fBGWPKcblGbC8lNxOdMnYXBKC?usp=sharing) |
 | **Android** | `.apk` | ✅ Funcional | [Descargar APK Aquí](LINK_A_TU_DRIVE_O_RELEASE) |
-| **WebGL** | `Web` | ✅ Online | [Jugar en Navegador Aquí](LINK_A_TU_JUEGO_WEB) |
+| **WebGL** | `Web` | ✅ Online | [Jugar en Navegador Aquí](https://play.unity.com/en/games/ec821601-727d-42ed-aabb-ada6d5ae9ca5/guardian-del-equlibrio) |
 
 ---
 
