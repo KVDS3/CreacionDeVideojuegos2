@@ -1,61 +1,58 @@
-# 🎮 Portafolio de Desarrollo: Creacion de video juegos
+# 🎮 [NOMBRE DE TU VIDEOJUEGO]
 
-![Unity](https://img.shields.io/badge/Unity-2022.x-black?style=for-the-badge&logo=unity)
-![C#](https://img.shields.io/badge/C%23-Language-239120?style=for-the-badge&logo=c-sharp)
-![Status](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
+> **Materia:** Creación de Videojuegos - Unidad 3
+> **Alumno:** [TU NOMBRE COMPLETO]
+> **Grupo:** [TU GRUPO]
 
-> **Objetivo:** Practicar y demostrar el dominio de los fundamentos de videojuegos en 3D utilizando el motor Unity, siguiendo la metodología del curso "Create with Code".
-
----
-
-## 👨‍💻 Información del Autor
-
-| Rol | Nombre | Contacto / GitHub |
-| :--- | :--- | :--- |
-| **Desarrollador** | [TU NOMBRE COMPLETO AQUÍ] | [@TuUsuario](https://github.com/TuUsuario) |
+Este repositorio contiene la entrega final del proyecto, incluyendo el código fuente, las builds multiplataforma y la documentación del modelo de negocio.
 
 ---
 
-## 🚀 Parte 1: Tutoriales "Create with Code"
+## 🚀 1. Descargas y Plataformas (Builds)
+El videojuego ha sido compilado y probado en las siguientes plataformas según los requerimientos de la Actividad 1.
 
-En esta sección se encuentran los laboratorios y desafíos correspondientes a las lecciones principales del curso. Cada proyecto aborda una mecánica fundamental.
-
-| Lección | Temática Principal | Conceptos Clave | Enlace al Proyecto |
-| :---: | :--- | :--- | :---: |
-| **01** | **El Control del Jugador** | Movimiento, Input, Físicas básicas | [📂 Ver Actividad](./Leccion1_ControlJugador) |
-| **02** | **Jugabilidad Básica** | Colisiones, Prefabs, Spawn Manager | [📂 Ver Actividad](./Leccion2_Jugabilidad) |
-| **03** | **Sonidos y Efectos** | Audio Source, Partículas, Animaciones | [📂 Ver Actividad](./Leccion3_Sonidos) |
-| **04** | **Mecánica del Juego** | Power-ups, Enemigos, Loops de juego | [📂 Ver Actividad](./Leccion4_Mecanicas) |
-| **05** | **Interfaz de Usuario** | Canvas, Botones, Puntuación, Vidas | [📂 Ver Actividad](./Leccion5_UI) |
+| Plataforma | Tipo | Estado | 📥 Link de Descarga / Juego |
+| :--- | :---: | :---: | :--- |
+| **Windows (PC)** | `.exe` | ✅ Estable | [Descargar Build PC Aquí](LINK_A_TU_DRIVE_O_RELEASE) |
+| **Android** | `.apk` | ✅ Funcional | [Descargar APK Aquí](LINK_A_TU_DRIVE_O_RELEASE) |
+| **WebGL** | `Web` | ✅ Online | [Jugar en Navegador Aquí](LINK_A_TU_JUEGO_WEB) |
 
 ---
 
-## 🛠️ Parte 2: Ejercicios Prácticos (Saber-Hacer)
+## 📄 2. Modelo de Negocio (Documentación)
+Documento formal que cubre los aspectos legales, estrategias de marketing y monetización del proyecto.
 
-Colección de 5 ejercicios prácticos evaluados por el docente para demostrar la resolución de problemas específicos.
+📂 **[Ver Documento Completo (PDF/Presentación)](LINK_A_TU_DOCUMENTO_PDF)**
 
-| # | Nombre del Ejercicio | Descripción Breve | Solución |
-| :---: | :--- | :--- | :---: |
-| **1** | *Nombre del Ejercicio 1* | Descripción de lo que hace el código. | [🔗 Ver Código](./Ejercicio_Practico_1) |
-| **2** | *Nombre del Ejercicio 2* | Descripción de lo que hace el código. | [🔗 Ver Código](./Ejercicio_Practico_2) |
-| **3** | *Nombre del Ejercicio 3* | Descripción de lo que hace el código. | [🔗 Ver Código](./Ejercicio_Practico_3) |
-| **4** | *Nombre del Ejercicio 4* | Descripción de lo que hace el código. | [🔗 Ver Código](./Ejercicio_Practico_4) |
-| **5** | *Nombre del Ejercicio 5* | Descripción de lo que hace el código. | [🔗 Ver Código](./Ejercicio_Practico_5) |
+### Resumen del contenido:
+* **⚖️ Aspectos Legales:** Investigación sobre Propiedad Intelectual, Protección de Datos (GDPR/CCPA) y Clasificación ESRB.
+* **📢 Marketing:** Estudio de mercado, propuesta de valor y esquema de Embudo de Ventas (Funnel) con 5 canales de comunicación.
+* **💰 Monetización:** Tabla de estrategia financiera (Premium / F2P / Ads) con justificación de viabilidad.
 
 ---
 
-## 🏆 Proyecto Final de Unidad
+## 📺 3. Video Demostrativo
+Video de 3 a 10 minutos evidenciando la funcionalidad del juego en las tres plataformas (PC, Android, WebGL).
 
-Integración de todos los conocimientos adquiridos en un prototipo funcional.
+[![Ver Video en YouTube](https://img.youtube.com/vi/TU_ID_DE_VIDEO/0.jpg)](LINK_A_TU_VIDEO_DE_YOUTUBE)
 
-### 📄 Documentación
-* **Título del Juego:** *Guardian del Equilibrio (ejemplo)*
-* **Documento de Diseño (GDD):** [Leer Documento PDF/MD](./Docs/GDD_Juego.pdf)
-
-### 🕹️ El Juego
-Una breve descripción de tu juego final va aquí. Explica el objetivo y cómo se gana.
-
-[**👉 IR A LA CARPETA DEL PROYECTO FINAL**](./Proyecto_Final)
+> *Haz clic en la imagen o [aquí](LINK_A_TU_VIDEO_DE_YOUTUBE) para ver el video.*
 
 ---
-*Este portafolio fue desarrollado como parte de la asignatura de Desarrollo de Videojuegos.*
+
+## 🌍 4. Publicación en Tiendas
+El videojuego se encuentra publicado y accesible en las siguientes plataformas de distribución:
+
+1.  **Itch.io (Principal):** [Ver página del juego](LINK_DE_ITCH_IO)
+2.  **[Otra Tienda, ej. GameJolt]:** [Ver página del juego](LINK_TIENDA_2)
+3.  **[Otra Tienda, ej. Simmer.io]:** [Ver página del juego](LINK_TIENDA_3)
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+* **Motor:** Unity [Versión, ej. 2022.3]
+* **Lenguaje:** C#
+* **Control de Versiones:** GitHub
+
+---
+*Proyecto desarrollado para la Universidad Tecnológica del Norte de Guanajuato.*
