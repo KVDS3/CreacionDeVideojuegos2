@@ -22,7 +22,7 @@ El videojuego ha sido compilado y probado en las siguientes plataformas según l
 ## 📄 2. Modelo de Negocio (Documentación)
 Documento formal que cubre los aspectos legales, estrategias de marketing y monetización del proyecto.
 
-📂 **[Ver Documento Completo (PDF/Presentación)](LINK_A_TU_DOCUMENTO_PDF)**
+📂 **[Ver Documento Completo (PDF/Presentación)](https://drive.google.com/file/d/11-shnnulfupQc2tZVTPVXjtWdVn2KV3m/view?usp=sharing)**
 
 ### Resumen del contenido:
 * **⚖️ Aspectos Legales:** Investigación sobre Propiedad Intelectual, Protección de Datos (GDPR/CCPA) y Clasificación ESRB.
@@ -37,15 +37,6 @@ Video de 3 a 10 minutos evidenciando la funcionalidad del juego en las tres plat
 [![Ver Videos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoED6vnWlqQGyq3sWWKg2jDyQkCCo8R3Zvw&s)](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing)
 
 > *Haz clic en la imagen o [aquí](https://drive.google.com/drive/folders/17wyoMvkRRGrtCL-DCUIYoFfBCS3K-jrm?usp=sharing) para ver el video.*
-
----
-
-## 🌍 4. Publicación en Tiendas
-El videojuego se encuentra publicado y accesible en las siguientes plataformas de distribución:
-
-1.  **Itch.io (Principal):** [Ver página del juego](LINK_DE_ITCH_IO)
-2.  **[Otra Tienda, ej. GameJolt]:** [Ver página del juego](LINK_TIENDA_2)
-3.  **[Otra Tienda, ej. Simmer.io]:** [Ver página del juego](LINK_TIENDA_3)
 
 ---
 
